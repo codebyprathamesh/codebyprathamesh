@@ -44,7 +44,7 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook
 | **Heart Disease Prediction** | ML classification model to predict heart disease risk from patient data | [Repo](https://github.com/codebyprathamesh/Heart-Disease-Prediction-.git) |
 | **Customer Churn Prediction** | End-to-end ML pipeline predicting customer churn | [Repo](https://github.com/codebyprathamesh/customer-churn-prediction.git) |
 | **CSV Analyzer** | Streamlit app for automated EDA — missing values, univariate/bivariate analysis, correlation heatmap & auto-generated insights | [Repo](https://github.com/codebyprathamesh/CSV-Analyzer-Streamlit.git) |
-| **Weather App** | Real-time weather info using the OpenWeather API | [Repo](https://github.com/codebyprathamesh/weathertracker.git) |
+| **Weather App** | Real-time weather info using the OpenWeather API | [Repo](https://github.com/codebyprathamesh/weather_tracker_streamlit.git) |
 
 ---
 
