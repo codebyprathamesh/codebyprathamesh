@@ -45,6 +45,7 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook
 | **Customer Churn Prediction** | End-to-end ML pipeline predicting customer churn | [Repo](https://github.com/codebyprathamesh/customer-churn-prediction.git) |
 | **CSV Analyzer** | Streamlit app for automated EDA — missing values, univariate/bivariate analysis, correlation heatmap & auto-generated insights | [Repo](https://github.com/codebyprathamesh/CSV-Analyzer-Streamlit.git) |
 | **Weather App** | Real-time weather info using the OpenWeather API | [Repo](https://github.com/codebyprathamesh/weather_tracker_streamlit.git) |
+| **Expense Tracker** | Personal Monthly Expense Tracker Dashboard | [Repo](https://github.com/codebyprathamesh/Expense-Tracker-Streamlit) |
 
 ---
 
